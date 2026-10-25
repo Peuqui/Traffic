@@ -78,8 +78,9 @@ if [ "${1:-}" = "--repo" ]; then
 fi
 
 : > "$FAILED_FILE"
-repos=$(gh repo list "$OWNER" --visibility public --source --no-archived --limit 1000 \
-          --json name --jq '.[].name' | sort)
+# Diese Liste von GitHub enthält nur öffentliche Repos; Forks und archivierte fallen weg.
+repos=$(gh api "users/$OWNER/repos" --paginate \
+          --jq '.[] | select(.fork | not) | select(.archived | not) | .name' | sort)
 for repo in $repos; do
   # Ein Fehler in einem Repo hält die anderen nicht auf; die Ursache steht im Log darüber.
   if ! "$0" --repo "$repo"; then

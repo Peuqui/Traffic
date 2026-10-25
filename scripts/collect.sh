@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 # Tages-Snapshot der GitHub-Statistik aller öffentlichen eigenen Repos (ohne Forks und Archiv)
-# nach data/<repo>/: traffic.jsonl (eine Zeile pro Tag) und stars-daily.json (Sterne je Tag).
+# nach data/<repo>/traffic.jsonl (eine Zeile pro Tag).
+#
+# data/<repo>/stars-daily.json (Sterne je Tag vor Messbeginn, ohne Namen) wurde beim Umzug am
+# 25.10.2026 einmal mit der Anmeldung des Besitzers erzeugt: Die Liste der Sterne-Geber gibt GitHub
+# seit Juni 2026 keinem Fine-grained-Schlüssel mehr heraus (HTTP 403). Ab Messbeginn reicht die
+# tägliche Sternzahl; ein später neues Repo beginnt seinen Verlauf mit dem ersten Tag.
 #
 # GitHub hält Aufrufe und Klone nur 14 Tage vor; die tägliche Zeile macht daraus eine Historie,
 # und ein ausgefallener Tag wird vom 14-Tage-Fenster des nächsten Laufs nachgeholt.
@@ -17,7 +22,7 @@ DATE=$(date -u +%Y-%m-%d)
 
 collect() {
   local repo=$1 dir=data/$1
-  local views clones referrers paths stars forks releases created daily snapshot
+  local views clones referrers paths stars forks releases snapshot
   mkdir -p "$dir"
 
   views=$(gh api "repos/$OWNER/$repo/traffic/views")
@@ -53,21 +58,6 @@ collect() {
     echo "$snapshot" >> "$dir/traffic.jsonl"
     echo "$repo: $DATE gespeichert"
   fi
-
-  # Zeitstempel der einzelnen Sterne, auf Tage zusammengefasst und OHNE Benutzernamen: genau die
-  # personenbezogenen Daten, wegen derer GitHub die API am 30.06.2026 gesperrt hat, gehören nicht in
-  # ein öffentliches Repo. Als Repo-Admin liefert die API sie weiterhin. Reicht bis zum ersten Stern
-  # zurück und schließt damit die Lücke vor Messbeginn. --slurp verträgt sich nicht mit --jq, daher
-  # die nachgelagerte jq-Pipe; ohne --slurp käme pro Seite ein eigenes Array.
-  created=$(gh api "repos/$OWNER/$repo" --jq '.created_at' | cut -dT -f1)
-  daily=$(gh api "repos/$OWNER/$repo/stargazers" --paginate --slurp \
-            -H "Accept: application/vnd.github.star+json" \
-          | jq 'add // [] | [.[].starred_at | split("T")[0]]
-                | group_by(.) | map({key: .[0], value: length}) | from_entries')
-  # Erst in eine Temp-Datei: Ein gescheiterter Abruf darf die vorhandene Datei nicht leeren.
-  jq -n --arg created "$created" --argjson daily "$daily" \
-    '{repo_created: $created, daily_stars: $daily}' > "$dir/stars-daily.json.tmp"
-  mv "$dir/stars-daily.json.tmp" "$dir/stars-daily.json"
 }
 
 # Je Repo ein eigener Prozess: In einer if-Bedingung schaltet Bash set -e ab, auch in Funktionen und

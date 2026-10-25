@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v5
 
       # TRAFFIC_TOKEN: Fine-grained Token mit Lesezugriff auf „Administration“ aller Repos (die
-      # Traffic-API und die Stern-Zeitstempel verlangen Admin-Rechte). Geschrieben wird nur in dieses
+      # Traffic-API verlangt Admin-Rechte). Geschrieben wird nur in dieses
       # Repo, mit dem GITHUB_TOKEN des Laufs.
       - name: Collect snapshots
         env:

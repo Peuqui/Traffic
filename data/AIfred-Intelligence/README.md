@@ -20,6 +20,6 @@ leave a gap.
 | gathering.tweakers.net |  | 4 | 1 |  |  |  |  |  |  |  |  |  |  |
 | search.brave.com |  |  |  |  |  |  |  |  | 2 | 2 |  |  |  |
 | doubao.com |  |  |  |  | 2 |  |  |  |  |  |  |  |  |
-| teams.public.onecdn.static.microsoft |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  |
 | perplexity.ai |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  |
+| teams.public.onecdn.static.microsoft |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  |
 | yandex.ru |  |  |  |  | 1 |  |  |  |  |  |  |  |  |

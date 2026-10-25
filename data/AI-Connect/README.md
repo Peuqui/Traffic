@@ -16,6 +16,6 @@ leave a gap.
 | reddit.com | 1 | 6 | 1 |  | 5 | 1 |  | 4 | 2 | 3 | 4 | 9 | 2 |
 | Google |  | 2 |  | 1 | 1 |  |  |  |  | 1 |  |  | 1 |
 | github.com | 2 |  |  |  |  | 1 |  |  |  |  |  |  | 1 |
-| pulsemcp.com |  |  |  |  |  |  |  |  |  |  |  |  | 1 |
-| com.reddit.frontpage |  | 1 |  |  |  |  |  |  |  |  |  |  |  |
 | DuckDuckGo |  |  |  |  |  |  | 1 |  |  |  |  |  |  |
+| com.reddit.frontpage |  | 1 |  |  |  |  |  |  |  |  |  |  |  |
+| pulsemcp.com |  |  |  |  |  |  |  |  |  |  |  |  | 1 |

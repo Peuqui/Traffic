@@ -1,0 +1,52 @@
+name: Collect GitHub Traffic
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Täglich um 01:00 UTC
+  workflow_dispatch:  # Manuell auslösbar
+
+permissions:
+  contents: write
+
+# Zwei Läufe gleichzeitig würden denselben Tag zweimal anhängen wollen.
+concurrency: traffic
+
+jobs:
+  traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # TRAFFIC_TOKEN: Fine-grained Token mit Lesezugriff auf „Administration“ aller Repos (die
+      # Traffic-API und die Stern-Zeitstempel verlangen Admin-Rechte). Geschrieben wird nur in dieses
+      # Repo, mit dem GITHUB_TOKEN des Laufs.
+      - name: Collect snapshots
+        env:
+          GH_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: scripts/collect.sh
+
+      # Auch nach einem gescheiterten Repo: Was die anderen geliefert haben, wird gespeichert.
+      - name: Render charts and overview
+        if: ${{ !cancelled() }}
+        run: |
+          python3 scripts/render_star_history.py "${{ github.repository_owner }}" data
+          python3 scripts/render_overview.py "${{ github.repository_owner }}" data
+
+      - name: Commit if changed
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update traffic data ($(date -u +%Y-%m-%d))"
+          git push
+
+      - name: Fail on repositories that could not be read
+        if: ${{ !cancelled() }}
+        run: |
+          if [ -s failed-repos.txt ]; then
+            echo "::error::Nicht gelesen: $(tr '\n' ' ' < failed-repos.txt)"
+            exit 1
+          fi

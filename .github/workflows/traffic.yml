@@ -31,6 +31,7 @@ jobs:
         if: ${{ !cancelled() }}
         run: |
           python3 scripts/render_star_history.py "${{ github.repository_owner }}" data
+          python3 scripts/render_traffic.py "${{ github.repository_owner }}" data
           python3 scripts/render_overview.py "${{ github.repository_owner }}" data
 
       - name: Commit if changed

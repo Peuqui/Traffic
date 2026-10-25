@@ -8,12 +8,13 @@ Standard library only: the workflow runner must not need a pip install.
 from __future__ import annotations
 
 import sys
-from datetime import timedelta
+from datetime import date, timedelta
 from pathlib import Path
 
-from render_star_history import DATA_NAME, OUTPUT_NAME as STAR_CHART, read_snapshots
-from render_traffic import OUTPUT_NAME as TRAFFIC_CHART
 from render_groups import CHARTS, KINDS
+from render_star_history import DATA_NAME, day_text, read_snapshots
+from render_star_history import OUTPUT_NAME as STAR_CHART
+from render_traffic import OUTPUT_NAME as TRAFFIC_CHART
 from traffic_history import WINDOW_DAYS, Day, days, referrer_windows
 
 # How many 14-day windows of referrers a repository page shows (about half a year).
@@ -82,7 +83,7 @@ def overview_row(owner: str, directory: Path, snapshots: list[dict], history: li
     cloners = sum(day.clone_uniques for day in recent)
     automated = sum(day.automated_cloners for day in recent)
     share = f"{round(100 * automated / cloners)} %" if cloners else "–"
-    since = history[0].day.isoformat() if history else latest["date"]
+    since = day_text(history[0].day if history else date.fromisoformat(latest["date"]))
     return (
         f"| [{name}](data/{name}/README.md) | {latest.get('stars', '')} | {latest.get('forks', '')} "
         f"| {visitors} | {cloners} | {share} "
@@ -97,7 +98,7 @@ def referrer_table(snapshots: list[dict]) -> str:
                    key=lambda site: -sum(referrers.get(site, 0) for _, referrers in windows))
     if not sites:
         return "No referrers reported yet."
-    header = "| Site | " + " | ".join(end.isoformat() for end, _ in windows) + " |"
+    header = "| Site | " + " | ".join(day_text(end) for end, _ in windows) + " |"
     rule = "|---|" + "---:|" * len(windows)
     lines = [header, rule]
     for site in sites:

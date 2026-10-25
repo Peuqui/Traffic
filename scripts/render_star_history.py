@@ -43,6 +43,11 @@ COLORS = {
 # Month labels on the x axis; about 55 px each at the chart width.
 MAX_X_TICKS = 13
 
+def day_text(day: date) -> str:
+    """A day as the owner reads it (German order): 25.10.2026."""
+    return day.strftime("%d.%m.%Y")
+
+
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 
@@ -240,14 +245,14 @@ def build_svg(series: list[tuple[date, int]], repo: str,
     stars_now = series[-1][1]
 
     if measured_from and measured_from > first_day:
-        provenance = (f"measured daily since {measured_from.isoformat()}, "
+        provenance = (f"measured daily since {day_text(measured_from)}, "
                       f"earlier points reconstructed from star timestamps")
     else:
         provenance = "collected daily from the GitHub API"
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {HEIGHT}" width="{WIDTH}" height="{HEIGHT}" role="img" aria-label="Star history for {repo}: {stars_now} stars">
   <text {FONT} font-size="15" font-weight="600" fill="{COLORS["title"]}" x="{MARGIN_LEFT}" y="24">Star History</text>
-  <text {FONT} font-size="11" fill="{COLORS["text"]}" x="{MARGIN_LEFT}" y="{HEIGHT - 8}">{repo} &#183; {first_day.isoformat()} &#8211; {last_day.isoformat()} &#183; {provenance}</text>
+  <text {FONT} font-size="11" fill="{COLORS["text"]}" x="{MARGIN_LEFT}" y="{HEIGHT - 8}">{repo} &#183; {day_text(first_day)} &#8211; {day_text(last_day)} &#183; {provenance}</text>
   {body}
   <polygon fill="{COLORS["area"]}" opacity="0.12" points="{area_points}"/>
   <polyline fill="none" stroke="{COLORS["line"]}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="{line_points}"/>

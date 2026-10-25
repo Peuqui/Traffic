@@ -15,7 +15,7 @@ import sys
 from datetime import date, timedelta
 from pathlib import Path
 
-from render_star_history import COLORS, DATA_NAME, FONT, MONTHS, nice_step, read_snapshots
+from render_star_history import COLORS, DATA_NAME, FONT, MONTHS, day_text, nice_step, read_snapshots
 from traffic_history import Day, days
 
 OUTPUT_NAME = "traffic.svg"
@@ -95,7 +95,7 @@ def build_svg(repo: str, history: list[Day]) -> str:
             text = f"{MONTHS[monday.month - 1]} {monday.year}" if monday.month == 1 or index < 4 else MONTHS[monday.month - 1]
             parts.append(f'<text {FONT} font-size="11" fill="{COLORS["text"]}" x="{x:.1f}" y="{height - MARGIN_BOTTOM + 18}" text-anchor="middle">{text}</text>')
     first, last = history[0].day, history[-1].day
-    parts.append(f'<text {FONT} font-size="11" fill="{COLORS["text"]}" x="{MARGIN_LEFT}" y="{height - 8}">{repo} &#183; {first.isoformat()} &#8211; {last.isoformat()} &#183; weeks from Monday, collected daily from the GitHub API</text>')
+    parts.append(f'<text {FONT} font-size="11" fill="{COLORS["text"]}" x="{MARGIN_LEFT}" y="{height - 8}">{repo} &#183; {day_text(first)} &#8211; {day_text(last)} &#183; weeks from Monday, collected daily from the GitHub API</text>')
     body = "\n  ".join(parts)
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {height}" width="{WIDTH}" height="{height}" role="img" aria-label="Visitors and cloners per week for {repo}">
   {body}

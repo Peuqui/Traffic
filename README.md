@@ -33,19 +33,19 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 
 | Repository | Stars | Forks | Visitors 14 d | Cloners 14 d | Automated, at least | Views since | Clones since | Release downloads |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| [Agent-Orc](data/Agent-Orc/README.md) | 1 | 0 | 0 | 637 | 100 % | 0 (2026-10-11) | 1483 (2026-10-11) | 0 |
-| [AI-Connect](data/AI-Connect/README.md) | 8 | 4 | 6 | 164 | 96 % | 215 (2026-02-09) | 4097 (2026-02-09) |  |
-| [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 22 | 581 | 96 % | 1495 (2026-02-09) | 33892 (2026-02-09) |  |
-| [GPU-Orc](data/GPU-Orc/README.md) | 1 | 0 | 0 | 20 | 100 % | 0 (2026-10-11) | 37 (2026-10-11) | 0 |
-| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 0 | 77 | 100 % | 0 (2026-10-11) | 139 (2026-10-11) | 0 |
-| [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 3 | 11 | 82 % | 3 (2026-10-11) | 15 (2026-10-11) | 0 |
-| [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 109 | 98 % | 62 (2026-02-09) | 3111 (2026-02-09) |  |
-| [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 1 | 17 | 100 % | 1 (2026-10-11) | 21 (2026-10-11) | 0 |
-| [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 0 | 17 | 100 % | 0 (2026-10-11) | 49 (2026-10-11) | 0 |
-| [STT-Suite](data/STT-Suite/README.md) | 1 | 0 | 0 | 148 | 100 % | 0 (2026-10-11) | 271 (2026-10-11) | 0 |
-| [Traffic](data/Traffic/README.md) | 1 | 0 | 0 | 0 | – | 0 (2026-10-12) | 0 (2026-10-12) | 0 |
-| [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 475 | 100 % | 0 (2026-10-11) | 990 (2026-10-11) | 0 |
-| [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 9 | 100 % | 0 (2026-10-10) | 14 (2026-10-10) | 0 |
+| [Agent-Orc](data/Agent-Orc/README.md) | 1 | 0 | 0 | 637 | 100 % | 0 (11.10.2026) | 1483 (11.10.2026) | 0 |
+| [AI-Connect](data/AI-Connect/README.md) | 8 | 4 | 6 | 164 | 96 % | 215 (09.02.2026) | 4097 (09.02.2026) |  |
+| [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 22 | 581 | 96 % | 1495 (09.02.2026) | 33892 (09.02.2026) |  |
+| [GPU-Orc](data/GPU-Orc/README.md) | 1 | 0 | 0 | 20 | 100 % | 0 (11.10.2026) | 37 (11.10.2026) | 0 |
+| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 0 | 77 | 100 % | 0 (11.10.2026) | 139 (11.10.2026) | 0 |
+| [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 3 | 11 | 82 % | 3 (11.10.2026) | 15 (11.10.2026) | 0 |
+| [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 109 | 98 % | 62 (09.02.2026) | 3111 (09.02.2026) |  |
+| [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 1 | 17 | 100 % | 1 (11.10.2026) | 21 (11.10.2026) | 0 |
+| [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 0 | 17 | 100 % | 0 (11.10.2026) | 49 (11.10.2026) | 0 |
+| [STT-Suite](data/STT-Suite/README.md) | 1 | 0 | 0 | 148 | 100 % | 0 (11.10.2026) | 271 (11.10.2026) | 0 |
+| [Traffic](data/Traffic/README.md) | 1 | 0 | 0 | 0 | – | 0 (12.10.2026) | 0 (12.10.2026) | 0 |
+| [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 475 | 100 % | 0 (11.10.2026) | 990 (11.10.2026) | 0 |
+| [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 9 | 100 % | 0 (10.10.2026) | 14 (10.10.2026) | 0 |
 
 - **Visitors, cloners 14 d:** unique per day, summed over the last 14 days (one person on two days
   counts twice; GitHub's own 14-day uniques are in each snapshot).

@@ -270,21 +270,26 @@ def build_empty_svg(repo: str) -> str:
 '''
 
 
+def star_series(directory: Path) -> tuple[list[tuple[date, int]], date | None]:
+    """Stars over time of a repository folder, and the first measured day (None: no stars yet)."""
+    measured = extract_series(read_snapshots(directory / DATA_NAME))
+    if not measured:
+        return [], None
+    # Daily collection only started in February; everything before that is
+    # reconstructed from the stars' own timestamps.
+    return backfill_series(directory / STARS_NAME, until=measured[0][0]) + measured, measured[0][0]
+
+
 def render(repo: str, directory: Path) -> str:
     """Write directory/star-history.svg for owner/name ``repo``; a line for the log."""
     output = directory / OUTPUT_NAME
-    measured = extract_series(read_snapshots(directory / DATA_NAME))
-    if not measured:
+    series, measured_from = star_series(directory)
+    if measured_from is None:
         output.write_text(build_empty_svg(repo), encoding="utf-8")
         return f"{output}: no stars yet"
 
-    # Daily collection only started in February; everything before that is
-    # reconstructed from the stars' own timestamps.
-    series = backfill_series(directory / STARS_NAME, until=measured[0][0]) + measured
-
-    output.write_text(build_svg(series, repo, measured_from=measured[0][0]), encoding="utf-8")
-    return (f"{output}: {len(series)} data points "
-            f"({len(series) - len(measured)} reconstructed), {series[-1][1]} stars "
+    output.write_text(build_svg(series, repo, measured_from=measured_from), encoding="utf-8")
+    return (f"{output}: {len(series)} data points, {series[-1][1]} stars "
             f"({series[0][0]} - {series[-1][0]})")
 
 

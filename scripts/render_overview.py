@@ -13,6 +13,7 @@ from pathlib import Path
 
 from render_star_history import DATA_NAME, OUTPUT_NAME as STAR_CHART, read_snapshots
 from render_traffic import OUTPUT_NAME as TRAFFIC_CHART
+from render_groups import CHARTS, KINDS
 from traffic_history import WINDOW_DAYS, Day, days, referrer_windows
 
 # How many 14-day windows of referrers a repository page shows (about half a year).
@@ -23,8 +24,9 @@ OVERVIEW = """# Traffic
 Daily GitHub statistics of the public repositories of [{owner}](https://github.com/{owner}), collected by
 [a workflow](.github/workflows/traffic.yml) at 01:00 UTC. GitHub keeps views and clones for 14 days
 only; the daily snapshots in [data/](data/) turn them into a history. GitHub reports counts, never who:
-no names, no addresses.
+no names, no addresses. Repositories of a similar size share a chart; the groups follow the numbers.
 
+{charts}
 | Repository | Stars | Forks | Visitors 14 d | Cloners 14 d | Automated, at least | Views since | Clones since | Release downloads |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 {rows}
@@ -104,6 +106,16 @@ def referrer_table(snapshots: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def chart_sections() -> str:
+    """The grouped charts that render_groups.py wrote, by kind, in the order of its groups."""
+    sections = []
+    for kind, (title, _, _) in KINDS.items():
+        paths = sorted(CHARTS.glob(f"{kind}-*.svg"), key=lambda path: int(path.stem.rsplit("-", 1)[1]))
+        if paths:
+            sections.append(f"## {title}\n\n" + "\n\n".join(f"![{title}]({path.as_posix()})" for path in paths) + "\n")
+    return "\n".join(sections) + "\n## All repositories\n"
+
+
 def main() -> int:
     """render_overview.py <owner> <data dir>: README.md here and a page per repository folder."""
     if len(sys.argv) != 3:
@@ -121,7 +133,7 @@ def main() -> int:
             referrers=referrer_table(snapshots),
         )
         (directory / "README.md").write_text(page, encoding="utf-8")
-    Path("README.md").write_text(OVERVIEW.format(owner=owner, rows="\n".join(rows)), encoding="utf-8")
+    Path("README.md").write_text(OVERVIEW.format(owner=owner, rows="\n".join(rows), charts=chart_sections()), encoding="utf-8")
     print(f"README.md and {len(directories)} repository pages")
     return 0
 

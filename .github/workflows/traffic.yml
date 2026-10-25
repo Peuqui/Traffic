@@ -32,6 +32,7 @@ jobs:
         run: |
           python3 scripts/render_star_history.py "${{ github.repository_owner }}" data
           python3 scripts/render_traffic.py "${{ github.repository_owner }}" data
+          python3 scripts/render_groups.py data
           python3 scripts/render_overview.py "${{ github.repository_owner }}" data
 
       - name: Commit if changed
@@ -39,7 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data README.md
+          git add data charts README.md
           git diff --cached --quiet && exit 0
           git commit -m "chore: update traffic data ($(date -u +%Y-%m-%d))"
           git push

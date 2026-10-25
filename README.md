@@ -3,7 +3,31 @@
 Daily GitHub statistics of the public repositories of [Peuqui](https://github.com/Peuqui), collected by
 [a workflow](.github/workflows/traffic.yml) at 01:00 UTC. GitHub keeps views and clones for 14 days
 only; the daily snapshots in [data/](data/) turn them into a history. GitHub reports counts, never who:
-no names, no addresses.
+no names, no addresses. Repositories of a similar size share a chart; the groups follow the numbers.
+
+## Stars
+
+![Stars](charts/stars-1.svg)
+
+![Stars](charts/stars-2.svg)
+
+![Stars](charts/stars-3.svg)
+
+## Visitors per week
+
+![Visitors per week](charts/visitors-1.svg)
+
+![Visitors per week](charts/visitors-2.svg)
+
+## Cloners per week
+
+![Cloners per week](charts/cloners-1.svg)
+
+![Cloners per week](charts/cloners-2.svg)
+
+![Cloners per week](charts/cloners-3.svg)
+
+## All repositories
 
 | Repository | Stars | Forks | Visitors 14 d | Cloners 14 d | Automated, at least | Views since | Clones since | Release downloads |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|

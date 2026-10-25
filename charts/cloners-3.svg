@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" role="img" aria-label="Cloners per week">
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#6e7781" x="55" y="22">Cloners per week</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="298.0" x2="776" y2="298.0"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="302.0" text-anchor="end">0</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="254.4" x2="776" y2="254.4"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="258.4" text-anchor="end">5</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="210.8" x2="776" y2="210.8"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="214.8" text-anchor="end">10</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="167.2" x2="776" y2="167.2"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="171.2" text-anchor="end">15</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="123.6" x2="776" y2="123.6"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="127.6" text-anchor="end">20</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="80.0" x2="776" y2="80.0"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="84.0" text-anchor="end">25</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55.0" y="318" text-anchor="middle">Oct 2026</text>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 415.5,298.0 776.0,123.6"/>
+  <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">GPU-Orc (20)</text>
+  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 415.5,263.1 776.0,184.6"/>
+  <rect fill="#d29922" x="167.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="181.0" y="45">SolarSystemSimulator (13)</text>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="55.0,289.3 415.5,228.2 776.0,228.2"/>
+  <rect fill="#3fb950" x="363.5" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="377.5" y="45">sandbox-install (8)</text>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 415.5,263.1 776.0,237.0"/>
+  <rect fill="#db61a2" x="521.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="535.0" y="45">mtp-quant-transplant (7)</text>
+  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="55.0,271.8 415.5,271.8 776.0,271.8"/>
+  <rect fill="#a371f7" x="55" y="52" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">vllm-bench (3)</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique cloners per day, summed per week from Monday</text>
+</svg>

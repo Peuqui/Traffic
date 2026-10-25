@@ -17,5 +17,5 @@ leave a gap.
 | Google |  | 2 |  | 1 | 1 |  |  |  |  | 1 |  |  | 1 |
 | github.com | 2 |  |  |  |  | 1 |  |  |  |  |  |  | 1 |
 | pulsemcp.com |  |  |  |  |  |  |  |  |  |  |  |  | 1 |
-| DuckDuckGo |  |  |  |  |  |  | 1 |  |  |  |  |  |  |
 | com.reddit.frontpage |  | 1 |  |  |  |  |  |  |  |  |  |  |  |
+| DuckDuckGo |  |  |  |  |  |  | 1 |  |  |  |  |  |  |

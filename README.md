@@ -13,6 +13,8 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 
 ![Stars](charts/stars-3.svg)
 
+![Stars](charts/stars-4.svg)
+
 ## Visitors per week
 
 ![Visitors per week](charts/visitors-1.svg)
@@ -41,6 +43,7 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 | [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 1 | 17 | 100 % | 1 (2026-10-11) | 21 (2026-10-11) | 0 |
 | [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 0 | 17 | 100 % | 0 (2026-10-11) | 49 (2026-10-11) | 0 |
 | [STT-Suite](data/STT-Suite/README.md) | 1 | 0 | 0 | 148 | 100 % | 0 (2026-10-11) | 271 (2026-10-11) | 0 |
+| [Traffic](data/Traffic/README.md) | 1 | 0 | 0 | 0 | – | 0 (2026-10-12) | 0 (2026-10-12) | 0 |
 | [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 475 | 100 % | 0 (2026-10-11) | 990 (2026-10-11) | 0 |
 | [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 9 | 100 % | 0 (2026-10-10) | 14 (2026-10-10) | 0 |
 

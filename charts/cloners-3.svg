@@ -25,9 +25,9 @@
   <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 415.5,263.1 776.0,237.0"/>
   <rect fill="#db61a2" x="521.0" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="535.0" y="45">mtp-quant-transplant (7)</text>
-  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="55.0,271.8 415.5,271.8 776.0,271.8"/>
+  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="55.0,271.8 415.5,271.8 776.0,245.7"/>
   <rect fill="#a371f7" x="55" y="52" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">vllm-bench (3)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">vllm-bench (6)</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique cloners per day, summed per week from Monday</text>

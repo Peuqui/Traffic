@@ -16,13 +16,14 @@
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="297.5" text-anchor="end">60</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="256.0" x2="776" y2="256.0"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="260.0" text-anchor="end">80</text>
-  <rect fill="#8b949e" x="83.8" y="317.9" width="182.7" height="88.1"/>
-  <rect fill="#8b949e" x="324.2" y="271.0" width="182.7" height="135.0"/>
-  <rect fill="#8b949e" x="564.5" y="351.6" width="182.7" height="54.4"/>
+  <rect fill="#8b949e" x="76.6" y="317.9" width="137.0" height="88.1"/>
+  <rect fill="#8b949e" x="256.9" y="271.0" width="137.0" height="135.0"/>
+  <rect fill="#8b949e" x="437.1" y="316.0" width="137.0" height="90.0"/>
+  <rect fill="#8b949e" x="617.4" y="368.5" width="137.0" height="37.5"/>
   <rect fill="#d29922" x="540" y="237" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="554" y="246">possibly people</text>
   <rect fill="#8b949e" x="650" y="237" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="664" y="246">automated, at least</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="175.2" y="424" text-anchor="middle">Oct 2026</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="450">Peuqui/STT-Suite &#183; 11.10.2026 &#8211; 24.10.2026 &#183; weeks from Monday, collected daily from the GitHub API</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="145.1" y="424" text-anchor="middle">Oct 2026</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="450">Peuqui/STT-Suite &#183; 11.10.2026 &#8211; 26.10.2026 &#183; weeks from Monday, collected daily from the GitHub API</text>
 </svg>

@@ -11,6 +11,6 @@
 Views from each referring site in the 14 days up to the date, newest first. Days without a snapshot
 leave a gap.
 
-| Site | 27.10.2026 |
+| Site | 28.10.2026 |
 |---|---:|
 | github.com | 1 |

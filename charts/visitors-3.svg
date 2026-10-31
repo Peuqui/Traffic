@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" role="img" aria-label="Visitors per week">
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#6e7781" x="55" y="22">Visitors per week</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="298.0" x2="776" y2="298.0"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="302.0" text-anchor="end">0</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="189.0" x2="776" y2="189.0"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="193.0" text-anchor="end">1</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="80.0" x2="776" y2="80.0"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="84.0" text-anchor="end">2</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55.0" y="318" text-anchor="middle">Oct 2026</text>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 295.3,298.0 535.7,189.0 776.0,298.0"/>
+  <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">Grafana-Dashboards (0)</text>
+  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 295.3,298.0 535.7,189.0 776.0,298.0"/>
+  <rect fill="#d29922" x="232.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="246.0" y="45">sandbox-install (0)</text>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 295.3,298.0 535.7,189.0 776.0,298.0"/>
+  <rect fill="#3fb950" x="389.5" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="403.5" y="45">SolarSystemSimulator (0)</text>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
+  <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique visitors per day, summed per week from Monday</text>
+</svg>

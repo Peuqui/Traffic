@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" role="img" aria-label="Star history for Peuqui/SolarSystemSimulator: 1 stars">
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#6e7781" x="55" y="24">Star History</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="312">Peuqui/SolarSystemSimulator &#183; 21.05.2026 &#8211; 30.10.2026 &#183; measured daily since 25.10.2026, earlier points reconstructed from star timestamps</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="312">Peuqui/SolarSystemSimulator &#183; 21.05.2026 &#8211; 31.10.2026 &#183; measured daily since 25.10.2026, earlier points reconstructed from star timestamps</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="278.0" x2="776" y2="278.0"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="282.0" text-anchor="end">0</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="161.0" x2="776" y2="161.0"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="165.0" text-anchor="end">1</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="44.0" x2="776" y2="44.0"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="48.0" text-anchor="end">2</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="104.0" y="298" text-anchor="middle">Jun 2026</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="237.5" y="298" text-anchor="middle">Jul</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="375.4" y="298" text-anchor="middle">Aug</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="513.4" y="298" text-anchor="middle">Sep</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="646.9" y="298" text-anchor="middle">Oct</text>
-  <polygon fill="#2f81f7" opacity="0.12" points="55.0,278.0 55.0,278.0 646.9,278.0 646.9,161.0 753.7,161.0 753.7,161.0 758.2,161.0 758.2,161.0 762.6,161.0 762.6,161.0 767.1,161.0 767.1,161.0 771.5,161.0 771.5,161.0 776.0,161.0 776.0,161.0 776.0,278.0"/>
-  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="55.0,278.0 646.9,278.0 646.9,161.0 753.7,161.0 753.7,161.0 758.2,161.0 758.2,161.0 762.6,161.0 762.6,161.0 767.1,161.0 767.1,161.0 771.5,161.0 771.5,161.0 776.0,161.0 776.0,161.0"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="103.7" y="298" text-anchor="middle">Jun 2026</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="236.4" y="298" text-anchor="middle">Jul</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="373.5" y="298" text-anchor="middle">Aug</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="510.6" y="298" text-anchor="middle">Sep</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="643.3" y="298" text-anchor="middle">Oct</text>
+  <polygon fill="#2f81f7" opacity="0.12" points="55.0,278.0 55.0,278.0 643.3,278.0 643.3,161.0 749.5,161.0 749.5,161.0 753.9,161.0 753.9,161.0 758.3,161.0 758.3,161.0 762.7,161.0 762.7,161.0 767.2,161.0 767.2,161.0 771.6,161.0 771.6,161.0 776.0,161.0 776.0,161.0 776.0,278.0"/>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="55.0,278.0 643.3,278.0 643.3,161.0 749.5,161.0 749.5,161.0 753.9,161.0 753.9,161.0 758.3,161.0 758.3,161.0 762.7,161.0 762.7,161.0 767.2,161.0 767.2,161.0 771.6,161.0 771.6,161.0 776.0,161.0 776.0,161.0"/>
   <circle fill="#2f81f7" cx="776.0" cy="161.0" r="3.5"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#2f81f7" x="768.0" y="151.0" text-anchor="end">1 stars</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="44" x2="55" y2="278"/>

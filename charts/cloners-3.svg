@@ -18,12 +18,12 @@
   <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 235.2,254.4 415.5,112.7 595.8,232.6 776.0,287.1"/>
   <rect fill="#d29922" x="212.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="226.5" y="45">SolarSystemSimulator (1)</text>
-  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="55.0,265.3 235.2,265.3 415.5,112.7 595.8,210.8"/>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="55.0,265.3 235.2,265.3 415.5,112.7 595.8,210.8 776.0,298.0"/>
   <rect fill="#3fb950" x="402.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="416.5" y="45">vllm-bench (8)</text>
-  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 235.2,254.4 415.5,167.2 595.8,254.4"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="416.5" y="45">vllm-bench (0)</text>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 235.2,254.4 415.5,167.2 595.8,254.4 776.0,265.3"/>
   <rect fill="#db61a2" x="527.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="541.5" y="45">mtp-quant-transplant (4)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="541.5" y="45">mtp-quant-transplant (3)</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique cloners per day, summed per week from Monday</text>

@@ -39,6 +39,7 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 | [GPU-Orc](data/GPU-Orc/README.md) | 2 | 0 | 0 | 140 | 100 % | 0 (11.10.2026) | 269 (11.10.2026) | 0 |
 | [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 1 | 51 | 98 % | 1 (11.10.2026) | 174 (11.10.2026) | 0 |
 | [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 5 | 17 | 88 % | 8 (11.10.2026) | 31 (11.10.2026) | 0 |
+| [Mundwerk](data/Mundwerk/README.md) | 1 | 0 | 0 | 0 | – | 0 (23.10.2026) | 0 (23.10.2026) | 0 |
 | [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 59 | 98 % | 64 (09.02.2026) | 3239 (09.02.2026) | 0 |
 | [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 0 | 24 | 100 % | 1 (11.10.2026) | 47 (11.10.2026) | 0 |
 | [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 1 | 22 | 95 % | 1 (11.10.2026) | 65 (11.10.2026) | 0 |

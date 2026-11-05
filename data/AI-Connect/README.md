@@ -16,5 +16,5 @@ leave a gap.
 | reddit.com | 1 | 1 | 8 |  | 2 | 5 | 1 | 1 | 3 | 4 | 2 | 5 | 3 |
 | Google | 1 |  | 2 |  | 1 | 1 |  |  |  |  | 1 |  |  |
 | github.com | 1 | 1 |  |  |  |  | 1 |  |  |  |  |  |  |
-| DuckDuckGo |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
 | com.reddit.frontpage |  |  | 1 |  |  |  |  |  |  |  |  |  |  |
+| DuckDuckGo |  |  |  |  |  |  |  | 1 |  |  |  |  |  |

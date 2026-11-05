@@ -34,18 +34,18 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 | Repository | Stars | Forks | Visitors 14 d | Cloners 14 d | Automated, at least | Views since | Clones since | Release downloads |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | [Agent-Orc](data/Agent-Orc/README.md) | 1 | 0 | 0 | 355 | 100 % | 0 (11.10.2026) | 2057 (11.10.2026) | 0 |
-| [AI-Connect](data/AI-Connect/README.md) | 8 | 4 | 11 | 75 | 85 % | 228 (09.02.2026) | 4265 (09.02.2026) | 11 |
-| [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 25 | 429 | 94 % | 1515 (09.02.2026) | 36880 (09.02.2026) | 0 |
-| [GPU-Orc](data/GPU-Orc/README.md) | 2 | 0 | 0 | 137 | 100 % | 0 (11.10.2026) | 266 (11.10.2026) | 0 |
-| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 1 | 55 | 98 % | 1 (11.10.2026) | 172 (11.10.2026) | 0 |
-| [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 4 | 18 | 89 % | 7 (11.10.2026) | 31 (11.10.2026) | 0 |
-| [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 63 | 98 % | 64 (09.02.2026) | 3239 (09.02.2026) | 0 |
-| [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 1 | 23 | 100 % | 1 (11.10.2026) | 45 (11.10.2026) | 0 |
+| [AI-Connect](data/AI-Connect/README.md) | 8 | 4 | 11 | 69 | 84 % | 228 (09.02.2026) | 4271 (09.02.2026) | 11 |
+| [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 27 | 412 | 93 % | 1518 (09.02.2026) | 36906 (09.02.2026) | 0 |
+| [GPU-Orc](data/GPU-Orc/README.md) | 2 | 0 | 0 | 140 | 100 % | 0 (11.10.2026) | 269 (11.10.2026) | 0 |
+| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 1 | 51 | 98 % | 1 (11.10.2026) | 174 (11.10.2026) | 0 |
+| [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 5 | 17 | 88 % | 8 (11.10.2026) | 31 (11.10.2026) | 0 |
+| [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 59 | 98 % | 64 (09.02.2026) | 3239 (09.02.2026) | 0 |
+| [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 0 | 24 | 100 % | 1 (11.10.2026) | 47 (11.10.2026) | 0 |
 | [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 1 | 22 | 95 % | 1 (11.10.2026) | 65 (11.10.2026) | 0 |
 | [STT-Suite](data/STT-Suite/README.md) | 1 | 0 | 0 | 75 | 100 % | 0 (11.10.2026) | 394 (11.10.2026) | 0 |
-| [Traffic](data/Traffic/README.md) | 2 | 0 | 0 | 116 | 100 % | 0 (12.10.2026) | 224 (12.10.2026) | 0 |
-| [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 121 | 100 % | 0 (11.10.2026) | 1177 (11.10.2026) | 0 |
-| [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 24 | 100 % | 0 (10.10.2026) | 48 (10.10.2026) | 0 |
+| [Traffic](data/Traffic/README.md) | 2 | 0 | 0 | 118 | 100 % | 0 (12.10.2026) | 229 (12.10.2026) | 0 |
+| [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 118 | 100 % | 0 (11.10.2026) | 1191 (11.10.2026) | 0 |
+| [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 24 | 100 % | 0 (10.10.2026) | 49 (10.10.2026) | 0 |
 
 - **Visitors, cloners 14 d:** unique per day, summed over the last 14 days (one person on two days
   counts twice; GitHub's own 14-day uniques are in each snapshot).

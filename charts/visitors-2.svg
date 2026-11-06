@@ -20,9 +20,9 @@
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="607.9" y="318" text-anchor="middle">Sep</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="689.3" y="318" text-anchor="middle">Oct</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="773.3" y="318" text-anchor="middle">Nov</text>
-  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,243.5 74.0,298.0 92.9,270.8 111.9,243.5 130.9,189.0 149.9,298.0 168.8,298.0 187.8,270.8 206.8,298.0 225.8,298.0 244.7,298.0 263.7,298.0 282.7,298.0 301.7,270.8 320.6,298.0 339.6,298.0 358.6,298.0 377.6,298.0 396.5,298.0 415.5,298.0 434.5,298.0 453.4,298.0 472.4,270.8 491.4,298.0 510.4,298.0 529.3,298.0 548.3,298.0 567.3,243.5 586.3,298.0 605.2,270.8 624.2,216.2 643.2,134.5 662.2,216.2 681.1,243.5 700.1,270.8 719.1,298.0 738.1,270.8 757.0,243.5 776.0,298.0"/>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,243.5 74.0,298.0 92.9,270.8 111.9,243.5 130.9,189.0 149.9,298.0 168.8,298.0 187.8,270.8 206.8,298.0 225.8,298.0 244.7,298.0 263.7,298.0 282.7,298.0 301.7,270.8 320.6,298.0 339.6,298.0 358.6,298.0 377.6,298.0 396.5,298.0 415.5,298.0 434.5,298.0 453.4,298.0 472.4,270.8 491.4,298.0 510.4,298.0 529.3,298.0 548.3,298.0 567.3,243.5 586.3,298.0 605.2,270.8 624.2,216.2 643.2,134.5 662.2,216.2 681.1,243.5 700.1,270.8 719.1,298.0 738.1,270.8 757.0,243.5 776.0,270.8"/>
   <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">NarcoCalc (0)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">NarcoCalc (1)</text>
   <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="700.1,270.8 719.1,270.8 738.1,270.8 757.0,243.5 776.0,243.5"/>
   <rect fill="#d29922" x="173.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="187.5" y="45">mtp-quant-transplant (2)</text>

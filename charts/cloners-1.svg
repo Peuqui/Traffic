@@ -20,12 +20,12 @@
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="607.9" y="318" text-anchor="middle">Sep</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="689.3" y="318" text-anchor="middle">Oct</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="773.3" y="318" text-anchor="middle">Nov</text>
-  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,264.2 74.0,238.0 92.9,267.9 111.9,276.6 130.9,278.8 149.9,271.2 168.8,217.6 187.8,244.8 206.8,266.4 225.8,265.7 244.7,180.7 263.7,203.4 282.7,208.2 301.7,267.0 320.6,237.6 339.6,117.9 358.6,244.2 377.6,239.6 396.5,245.7 415.5,261.2 434.5,269.9 453.4,252.9 472.4,278.6 491.4,282.7 510.4,283.0 529.3,281.0 548.3,279.5 567.3,286.9 586.3,282.1 605.2,266.2 624.2,264.0 643.2,269.7 662.2,243.5 681.1,266.0 700.1,224.5 719.1,231.7 738.1,257.2 757.0,252.7 776.0,281.2"/>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,264.2 74.0,238.0 92.9,267.9 111.9,276.6 130.9,278.8 149.9,271.2 168.8,217.6 187.8,244.8 206.8,266.4 225.8,265.7 244.7,180.7 263.7,203.4 282.7,208.2 301.7,267.0 320.6,237.6 339.6,117.9 358.6,244.2 377.6,239.6 396.5,245.7 415.5,261.2 434.5,269.9 453.4,252.9 472.4,278.6 491.4,282.7 510.4,283.0 529.3,281.0 548.3,279.5 567.3,286.9 586.3,282.1 605.2,266.2 624.2,264.0 643.2,269.7 662.2,243.5 681.1,266.0 700.1,224.5 719.1,231.7 738.1,257.2 757.0,252.7 776.0,277.7"/>
   <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">AIfred-Intelligence (77)</text>
-  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="700.1,271.6 719.1,228.7 738.1,283.0 757.0,284.9 776.0,295.6"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">AIfred-Intelligence (93)</text>
+  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="700.1,271.6 719.1,228.7 738.1,283.0 757.0,284.9 776.0,295.4"/>
   <rect fill="#d29922" x="245.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="259.0" y="45">TTS-Suite (11)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="259.0" y="45">TTS-Suite (12)</text>
   <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="700.1,255.9 719.1,236.7 738.1,242.6 757.0,269.0 776.0,296.3"/>
   <rect fill="#3fb950" x="370.0" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="384.0" y="45">Agent-Orc (8)</text>

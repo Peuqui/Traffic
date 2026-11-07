@@ -26,15 +26,18 @@
   <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="700.1,298.0 719.1,298.0 738.1,193.4 757.0,256.6 776.0,287.1"/>
   <rect fill="#d29922" x="173.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="187.5" y="45">GPU-Orc (10)</text>
-  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="700.1,246.8 719.1,219.5 738.1,245.7 757.0,253.3 776.0,290.4"/>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="700.1,246.8 719.1,219.5 738.1,245.7 757.0,253.3 776.0,281.6"/>
   <rect fill="#3fb950" x="285.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="299.5" y="45">STT-Suite (7)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="299.5" y="45">STT-Suite (15)</text>
   <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="719.1,298.0 738.1,257.7 757.0,232.6 776.0,260.9"/>
-  <rect fill="#db61a2" x="404.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="418.0" y="45">Traffic (34)</text>
+  <rect fill="#db61a2" x="410.5" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="424.5" y="45">Traffic (34)</text>
   <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="700.1,294.7 719.1,259.9 738.1,240.2 757.0,292.5 776.0,294.7"/>
-  <rect fill="#a371f7" x="516.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="530.0" y="45">Grafana-Dashboards (3)</text>
+  <rect fill="#a371f7" x="522.5" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="536.5" y="45">Grafana-Dashboards (3)</text>
+  <polyline fill="none" stroke="#f0883e" stroke-width="2" stroke-linejoin="round" points="738.1,298.0 757.0,298.0 776.0,245.7"/>
+  <rect fill="#f0883e" x="55" y="52" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">Mundwerk (48)</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique cloners per day, summed per week from Monday</text>

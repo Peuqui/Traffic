@@ -26,12 +26,12 @@
   <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="700.1,271.6 719.1,228.7 738.1,283.0 757.0,284.9 776.0,295.4"/>
   <rect fill="#d29922" x="251.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="265.5" y="45">TTS-Suite (12)</text>
-  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="700.1,255.9 719.1,236.7 738.1,242.6 757.0,269.0 776.0,289.3"/>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="700.1,255.9 719.1,236.7 738.1,242.6 757.0,269.0 776.0,274.2"/>
   <rect fill="#3fb950" x="376.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="390.5" y="45">Agent-Orc (40)</text>
-  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,288.4 74.0,283.6 92.9,282.3 111.9,282.7 130.9,288.0 149.9,287.1 168.8,287.8 187.8,281.2 206.8,284.7 225.8,283.8 244.7,270.3 263.7,280.3 282.7,283.8 301.7,283.4 320.6,286.2 339.6,287.8 358.6,286.2 377.6,286.2 396.5,283.2 415.5,283.4 434.5,288.4 453.4,289.5 472.4,291.7 491.4,292.1 510.4,290.6 529.3,291.0 548.3,291.2 567.3,290.8 586.3,290.2 605.2,287.5 624.2,288.4 643.2,286.2 662.2,283.6 681.1,246.3 700.1,271.4 719.1,275.8 738.1,285.1 757.0,293.0 776.0,295.2"/>
-  <rect fill="#db61a2" x="501.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="515.5" y="45">AI-Connect (13)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="390.5" y="45">Agent-Orc (109)</text>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,288.4 74.0,283.6 92.9,282.3 111.9,282.7 130.9,288.0 149.9,287.1 168.8,287.8 187.8,281.2 206.8,284.7 225.8,283.8 244.7,270.3 263.7,280.3 282.7,283.8 301.7,283.4 320.6,286.2 339.6,287.8 358.6,286.2 377.6,286.2 396.5,283.2 415.5,283.4 434.5,288.4 453.4,289.5 472.4,291.7 491.4,292.1 510.4,290.6 529.3,291.0 548.3,291.2 567.3,290.8 586.3,290.2 605.2,287.5 624.2,288.4 643.2,286.2 662.2,283.6 681.1,246.3 700.1,271.4 719.1,275.8 738.1,285.1 757.0,293.0 776.0,294.5"/>
+  <rect fill="#db61a2" x="508.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="522.0" y="45">AI-Connect (16)</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique cloners per day, summed per week from Monday</text>

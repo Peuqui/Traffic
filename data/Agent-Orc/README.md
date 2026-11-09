@@ -11,4 +11,7 @@
 Views from each referring site in the 14 days up to the date, newest first. Days without a snapshot
 leave a gap.
 
-No referrers reported yet.
+| Site | 09.11.2026 | 26.10.2026 |
+|---|---:|---:|
+| com.reddit.frontpage | 2 |  |
+| github.com | 1 |  |

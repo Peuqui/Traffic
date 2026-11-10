@@ -11,33 +11,33 @@
   <line stroke="#8b949e" stroke-width="1" opacity="0.28" x1="55" y1="80.0" x2="776" y2="80.0"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="45" y="84.0" text-anchor="end">200</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55.0" y="318" text-anchor="middle">Feb 2026</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="109.2" y="318" text-anchor="middle">Mar</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="193.2" y="318" text-anchor="middle">Apr</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="274.6" y="318" text-anchor="middle">May</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="358.6" y="318" text-anchor="middle">Jun</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="439.9" y="318" text-anchor="middle">Jul</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="523.9" y="318" text-anchor="middle">Aug</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="607.9" y="318" text-anchor="middle">Sep</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="689.3" y="318" text-anchor="middle">Oct</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="773.3" y="318" text-anchor="middle">Nov</text>
-  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,216.2 74.0,249.0 92.9,226.1 111.9,252.2 130.9,263.1 149.9,262.0 168.8,252.2 187.8,229.3 206.8,245.7 225.8,220.6 244.7,169.4 263.7,233.7 282.7,235.9 301.7,240.2 320.6,238.0 339.6,185.7 358.6,263.1 377.6,250.0 396.5,243.5 415.5,233.7 434.5,234.8 453.4,251.1 472.4,255.5 491.4,266.4 510.4,276.2 529.3,270.8 548.3,128.0 567.3,275.1 586.3,279.5 605.2,270.8 624.2,251.1 643.2,264.2 662.2,252.2 681.1,244.6 700.1,229.3 719.1,229.3 738.1,240.2 757.0,284.9 776.0,283.8"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="107.8" y="318" text-anchor="middle">Mar</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="189.7" y="318" text-anchor="middle">Apr</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="268.9" y="318" text-anchor="middle">May</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="350.8" y="318" text-anchor="middle">Jun</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="430.0" y="318" text-anchor="middle">Jul</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="511.9" y="318" text-anchor="middle">Aug</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="593.8" y="318" text-anchor="middle">Sep</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="673.0" y="318" text-anchor="middle">Oct</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="754.9" y="318" text-anchor="middle">Nov</text>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,216.2 73.5,249.0 92.0,226.1 110.5,252.2 128.9,263.1 147.4,262.0 165.9,252.2 184.4,229.3 202.9,245.7 221.4,220.6 239.9,169.4 258.4,233.7 276.8,235.9 295.3,240.2 313.8,238.0 332.3,185.7 350.8,263.1 369.3,250.0 387.8,243.5 406.3,233.7 424.7,234.8 443.2,251.1 461.7,255.5 480.2,266.4 498.7,276.2 517.2,270.8 535.7,128.0 554.2,275.1 572.6,279.5 591.1,270.8 609.6,251.1 628.1,264.2 646.6,252.2 665.1,244.6 683.6,229.3 702.1,229.3 720.5,240.2 739.0,284.9 757.5,283.8 776.0,298.0"/>
   <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">NarcoCalc (13)</text>
-  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="738.1,298.0 757.0,298.0 776.0,187.9"/>
-  <rect fill="#d29922" x="180.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="194.0" y="45">Mundwerk (101)</text>
-  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="700.1,298.0 719.1,298.0 738.1,193.4 757.0,256.6 776.0,281.6"/>
-  <rect fill="#3fb950" x="305.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="319.0" y="45">GPU-Orc (15)</text>
-  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="700.1,246.8 719.1,219.5 738.1,245.7 757.0,253.3 776.0,278.4"/>
-  <rect fill="#db61a2" x="417.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="431.0" y="45">STT-Suite (18)</text>
-  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="719.1,298.0 738.1,257.7 757.0,232.6 776.0,238.0"/>
-  <rect fill="#a371f7" x="542.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="556.0" y="45">Traffic (55)</text>
-  <polyline fill="none" stroke="#f0883e" stroke-width="2" stroke-linejoin="round" points="700.1,294.7 719.1,259.9 738.1,240.2 757.0,292.5 776.0,294.7"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">NarcoCalc (0)</text>
+  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="720.5,298.0 739.0,298.0 757.5,184.6 776.0,292.5"/>
+  <rect fill="#d29922" x="173.5" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="187.5" y="45">Mundwerk (5)</text>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="683.6,298.0 702.1,298.0 720.5,193.4 739.0,256.6 757.5,281.6 776.0,289.3"/>
+  <rect fill="#3fb950" x="285.5" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="299.5" y="45">GPU-Orc (8)</text>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="683.6,246.8 702.1,219.5 720.5,245.7 739.0,253.3 757.5,278.4 776.0,283.8"/>
+  <rect fill="#db61a2" x="391.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="405.0" y="45">STT-Suite (13)</text>
+  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="702.1,298.0 720.5,257.7 739.0,232.6 757.5,238.0 776.0,295.8"/>
+  <rect fill="#a371f7" x="516.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="530.0" y="45">Traffic (2)</text>
+  <polyline fill="none" stroke="#f0883e" stroke-width="2" stroke-linejoin="round" points="683.6,294.7 702.1,259.9 720.5,240.2 739.0,292.5 757.5,293.6 776.0,298.0"/>
   <rect fill="#f0883e" x="55" y="52" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">Grafana-Dashboards (3)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">Grafana-Dashboards (0)</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="298" x2="776" y2="298"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="332">unique cloners per day, summed per week from Monday</text>

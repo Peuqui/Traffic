@@ -17,7 +17,7 @@
   <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,189.0 487.6,298.0 631.8,298.0 776.0,298.0"/>
   <rect fill="#3fb950" x="337.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="351.5" y="45">sandbox-install (0)</text>
-  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,189.0 487.6,298.0 631.8,298.0"/>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,189.0 487.6,298.0 631.8,298.0 776.0,298.0"/>
   <rect fill="#db61a2" x="495.0" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="509.0" y="45">SolarSystemSimulator (0)</text>
   <line stroke="#8b949e" stroke-width="1" opacity="0.55" x1="55" y1="80" x2="55" y2="298"/>

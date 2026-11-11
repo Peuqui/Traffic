@@ -35,18 +35,18 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | [Agent-Orc](data/Agent-Orc/README.md) | 2 | 0 | 5 | 259 | 98 % | 8 (11.10.2026) | 2437 (11.10.2026) | 0 |
 | [AI-Connect](data/AI-Connect/README.md) | 8 | 4 | 6 | 39 | 85 % | 228 (09.02.2026) | 4286 (09.02.2026) | 15 |
-| [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 28 | 703 | 96 % | 1530 (09.02.2026) | 38211 (09.02.2026) | 0 |
+| [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 24 | 766 | 97 % | 1534 (09.02.2026) | 38552 (09.02.2026) | 0 |
 | [GPU-Orc](data/GPU-Orc/README.md) | 2 | 0 | 1 | 49 | 98 % | 1 (11.10.2026) | 297 (11.10.2026) | 0 |
-| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 0 | 9 | 100 % | 1 (11.10.2026) | 175 (11.10.2026) | 0 |
-| [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 3 | 10 | 90 % | 8 (11.10.2026) | 34 (11.10.2026) | 0 |
-| [Mundwerk](data/Mundwerk/README.md) | 2 | 0 | 0 | 109 | 100 % | 0 (23.10.2026) | 245 (23.10.2026) | 0 |
-| [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 3 | 25 | 92 % | 65 (09.02.2026) | 3250 (09.02.2026) | 0 |
+| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 0 | 9 | 100 % | 1 (11.10.2026) | 177 (11.10.2026) | 0 |
+| [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 3 | 10 | 90 % | 8 (11.10.2026) | 36 (11.10.2026) | 0 |
+| [Mundwerk](data/Mundwerk/README.md) | 2 | 0 | 0 | 112 | 100 % | 0 (23.10.2026) | 252 (23.10.2026) | 0 |
+| [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 24 | 96 % | 65 (09.02.2026) | 3252 (09.02.2026) | 0 |
 | [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 0 | 9 | 100 % | 1 (11.10.2026) | 48 (11.10.2026) | 0 |
-| [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 0 | 11 | 100 % | 1 (11.10.2026) | 70 (11.10.2026) | 0 |
-| [STT-Suite](data/STT-Suite/README.md) | 1 | 0 | 0 | 52 | 100 % | 0 (11.10.2026) | 455 (11.10.2026) | 0 |
+| [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 0 | 11 | 100 % | 1 (11.10.2026) | 71 (11.10.2026) | 0 |
+| [STT-Suite](data/STT-Suite/README.md) | 1 | 0 | 0 | 56 | 100 % | 0 (11.10.2026) | 470 (11.10.2026) | 0 |
 | [Traffic](data/Traffic/README.md) | 2 | 0 | 0 | 107 | 100 % | 0 (12.10.2026) | 308 (12.10.2026) | 0 |
-| [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 59 | 100 % | 0 (11.10.2026) | 1197 (11.10.2026) | 0 |
-| [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 11 | 100 % | 0 (10.10.2026) | 51 (10.10.2026) | 0 |
+| [TTS-Suite](data/TTS-Suite/README.md) | 2 | 0 | 0 | 74 | 100 % | 0 (11.10.2026) | 1232 (11.10.2026) | 0 |
+| [vllm-bench](data/vllm-bench/README.md) | 0 | 0 | 0 | 11 | 100 % | 0 (10.10.2026) | 52 (10.10.2026) | 0 |
 
 - **Visitors, cloners 14 d:** unique per day, summed over the last 14 days (one person on two days
   counts twice; GitHub's own 14-day uniques are in each snapshot).

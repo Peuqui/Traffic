@@ -11,7 +11,7 @@
 Views from each referring site in the 14 days up to the date, newest first. Days without a snapshot
 leave a gap.
 
-| Site | 11.11.2026 | 28.10.2026 |
+| Site | 12.11.2026 | 29.10.2026 |
 |---|---:|---:|
 | github.com | 3 |  |
 | aocr.org | 1 |  |

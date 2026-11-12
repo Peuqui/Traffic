@@ -20,21 +20,21 @@
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="593.8" y="318" text-anchor="middle">Sep</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="673.0" y="318" text-anchor="middle">Oct</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="754.9" y="318" text-anchor="middle">Nov</text>
-  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,216.2 73.5,249.0 92.0,226.1 110.5,252.2 128.9,263.1 147.4,262.0 165.9,252.2 184.4,229.3 202.9,245.7 221.4,220.6 239.9,169.4 258.4,233.7 276.8,235.9 295.3,240.2 313.8,238.0 332.3,185.7 350.8,263.1 369.3,250.0 387.8,243.5 406.3,233.7 424.7,234.8 443.2,251.1 461.7,255.5 480.2,266.4 498.7,276.2 517.2,270.8 535.7,128.0 554.2,275.1 572.6,279.5 591.1,270.8 609.6,251.1 628.1,264.2 646.6,252.2 665.1,244.6 683.6,229.3 702.1,229.3 720.5,240.2 739.0,284.9 757.5,283.8 776.0,296.9"/>
+  <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,216.2 73.5,249.0 92.0,226.1 110.5,252.2 128.9,263.1 147.4,262.0 165.9,252.2 184.4,229.3 202.9,245.7 221.4,220.6 239.9,169.4 258.4,233.7 276.8,235.9 295.3,240.2 313.8,238.0 332.3,185.7 350.8,263.1 369.3,250.0 387.8,243.5 406.3,233.7 424.7,234.8 443.2,251.1 461.7,255.5 480.2,266.4 498.7,276.2 517.2,270.8 535.7,128.0 554.2,275.1 572.6,279.5 591.1,270.8 609.6,251.1 628.1,264.2 646.6,252.2 665.1,244.6 683.6,229.3 702.1,229.3 720.5,240.2 739.0,284.9 757.5,283.8 776.0,295.8"/>
   <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">NarcoCalc (1)</text>
-  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="720.5,298.0 739.0,298.0 757.5,184.6 776.0,289.3"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">NarcoCalc (2)</text>
+  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="720.5,298.0 739.0,298.0 757.5,184.6 776.0,276.2"/>
   <rect fill="#d29922" x="173.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="187.5" y="45">Mundwerk (8)</text>
-  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="683.6,298.0 702.1,298.0 720.5,193.4 739.0,256.6 757.5,281.6 776.0,289.3"/>
-  <rect fill="#3fb950" x="285.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="299.5" y="45">GPU-Orc (8)</text>
-  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="683.6,246.8 702.1,219.5 720.5,245.7 739.0,253.3 757.5,278.4 776.0,277.3"/>
-  <rect fill="#db61a2" x="391.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="405.0" y="45">STT-Suite (19)</text>
-  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="702.1,298.0 720.5,257.7 739.0,232.6 757.5,238.0 776.0,295.8"/>
-  <rect fill="#a371f7" x="516.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="530.0" y="45">Traffic (2)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="187.5" y="45">Mundwerk (20)</text>
+  <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="683.6,298.0 702.1,298.0 720.5,193.4 739.0,256.6 757.5,281.6 776.0,287.1"/>
+  <rect fill="#3fb950" x="292.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="306.0" y="45">GPU-Orc (10)</text>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="683.6,246.8 702.1,219.5 720.5,245.7 739.0,253.3 757.5,278.4 776.0,274.0"/>
+  <rect fill="#db61a2" x="404.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="418.0" y="45">STT-Suite (22)</text>
+  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="702.1,298.0 720.5,257.7 739.0,232.6 757.5,238.0 776.0,287.1"/>
+  <rect fill="#a371f7" x="529.0" y="36" width="10" height="10"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="543.0" y="45">Traffic (10)</text>
   <polyline fill="none" stroke="#f0883e" stroke-width="2" stroke-linejoin="round" points="683.6,294.7 702.1,259.9 720.5,240.2 739.0,292.5 757.5,293.6 776.0,296.9"/>
   <rect fill="#f0883e" x="55" y="52" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">Grafana-Dashboards (1)</text>

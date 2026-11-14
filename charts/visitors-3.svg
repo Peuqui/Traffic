@@ -11,9 +11,9 @@
   <polyline fill="none" stroke="#2f81f7" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,298.0 487.6,298.0 631.8,189.0 776.0,298.0"/>
   <rect fill="#2f81f7" x="55" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="45">GPU-Orc (0)</text>
-  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,189.0 487.6,298.0 631.8,298.0 776.0,298.0"/>
+  <polyline fill="none" stroke="#d29922" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,189.0 487.6,298.0 631.8,298.0 776.0,189.0"/>
   <rect fill="#d29922" x="160.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="174.5" y="45">Grafana-Dashboards (0)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="174.5" y="45">Grafana-Dashboards (1)</text>
   <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="55.0,298.0 199.2,298.0 343.4,189.0 487.6,298.0 631.8,298.0 776.0,298.0"/>
   <rect fill="#3fb950" x="337.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="351.5" y="45">sandbox-install (0)</text>

@@ -136,8 +136,8 @@
   <rect fill="#d29922" x="724.1" y="394.5" width="13.7" height="3.0"/>
   <rect fill="#8b949e" x="742.1" y="397.5" width="13.7" height="8.5"/>
   <rect fill="#d29922" x="742.1" y="397.0" width="13.7" height="0.5"/>
-  <rect fill="#8b949e" x="760.1" y="402.0" width="13.7" height="4.0"/>
-  <rect fill="#d29922" x="760.1" y="401.5" width="13.7" height="0.5"/>
+  <rect fill="#8b949e" x="760.1" y="399.5" width="13.7" height="6.5"/>
+  <rect fill="#d29922" x="760.1" y="399.0" width="13.7" height="0.5"/>
   <rect fill="#d29922" x="540" y="237" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="554" y="246">possibly people</text>
   <rect fill="#8b949e" x="650" y="237" width="10" height="10"/>
@@ -151,5 +151,5 @@
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="604.8" y="424" text-anchor="middle">Sep</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="676.9" y="424" text-anchor="middle">Oct</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="749.0" y="424" text-anchor="middle">Nov</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="450">Peuqui/AI-Connect &#183; 09.02.2026 &#8211; 12.11.2026 &#183; weeks from Monday, collected daily from the GitHub API</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="450">Peuqui/AI-Connect &#183; 09.02.2026 &#8211; 13.11.2026 &#183; weeks from Monday, collected daily from the GitHub API</text>
 </svg>

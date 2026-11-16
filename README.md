@@ -33,13 +33,13 @@ no names, no addresses. Repositories of a similar size share a chart; the groups
 
 | Repository | Stars | Forks | Visitors 14 d | Cloners 14 d | Automated, at least | Views since | Clones since | Release downloads |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| [Agent-Orc](data/Agent-Orc/README.md) | 2 | 0 | 5 | 242 | 98 % | 8 (11.10.2026) | 2613 (11.10.2026) | 0 |
+| [Agent-Orc](data/Agent-Orc/README.md) | 2 | 0 | 5 | 270 | 98 % | 8 (11.10.2026) | 2698 (11.10.2026) | 0 |
 | [AI-Connect](data/AI-Connect/README.md) | 8 | 4 | 4 | 40 | 92 % | 231 (09.02.2026) | 4309 (09.02.2026) | 16 |
 | [AIfred-Intelligence](data/AIfred-Intelligence/README.md) | 39 | 3 | 24 | 830 | 97 % | 1541 (09.02.2026) | 38956 (09.02.2026) | 0 |
-| [GPU-Orc](data/GPU-Orc/README.md) | 2 | 0 | 1 | 39 | 97 % | 1 (11.10.2026) | 303 (11.10.2026) | 0 |
-| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 1 | 9 | 89 % | 3 (11.10.2026) | 179 (11.10.2026) | 0 |
+| [GPU-Orc](data/GPU-Orc/README.md) | 2 | 0 | 1 | 43 | 98 % | 1 (11.10.2026) | 310 (11.10.2026) | 0 |
+| [Grafana-Dashboards](data/Grafana-Dashboards/README.md) | 0 | 0 | 1 | 8 | 88 % | 3 (11.10.2026) | 179 (11.10.2026) | 0 |
 | [mtp-quant-transplant](data/mtp-quant-transplant/README.md) | 2 | 0 | 2 | 9 | 89 % | 8 (11.10.2026) | 37 (11.10.2026) | 0 |
-| [Mundwerk](data/Mundwerk/README.md) | 2 | 0 | 0 | 131 | 100 % | 0 (23.10.2026) | 290 (23.10.2026) | 0 |
+| [Mundwerk](data/Mundwerk/README.md) | 2 | 0 | 0 | 138 | 100 % | 0 (23.10.2026) | 301 (23.10.2026) | 0 |
 | [NarcoCalc](data/NarcoCalc/README.md) | 1 | 0 | 2 | 18 | 94 % | 66 (09.02.2026) | 3257 (09.02.2026) | 0 |
 | [sandbox-install](data/sandbox-install/README.md) | 1 | 0 | 0 | 10 | 100 % | 1 (11.10.2026) | 53 (11.10.2026) | 0 |
 | [SolarSystemSimulator](data/SolarSystemSimulator/README.md) | 1 | 0 | 0 | 7 | 100 % | 1 (11.10.2026) | 71 (11.10.2026) | 0 |

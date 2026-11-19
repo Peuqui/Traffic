@@ -29,12 +29,12 @@
   <polyline fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round" points="667.9,298.0 685.9,298.0 703.9,193.4 721.9,256.6 740.0,281.6 758.0,275.1 776.0,283.8"/>
   <rect fill="#3fb950" x="285.5" y="36" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="299.5" y="45">GPU-Orc (13)</text>
-  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="667.9,246.8 685.9,219.5 703.9,245.7 721.9,253.3 740.0,278.4 758.0,227.2 776.0,292.5"/>
+  <polyline fill="none" stroke="#db61a2" stroke-width="2" stroke-linejoin="round" points="667.9,246.8 685.9,219.5 703.9,245.7 721.9,253.3 740.0,278.4 758.0,227.2 776.0,288.2"/>
   <rect fill="#db61a2" x="397.5" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="411.5" y="45">STT-Suite (5)</text>
-  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="685.9,298.0 703.9,257.7 721.9,232.6 740.0,238.0 758.0,258.8 776.0,294.7"/>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="411.5" y="45">STT-Suite (9)</text>
+  <polyline fill="none" stroke="#a371f7" stroke-width="2" stroke-linejoin="round" points="685.9,298.0 703.9,257.7 721.9,232.6 740.0,238.0 758.0,258.8 776.0,277.3"/>
   <rect fill="#a371f7" x="516.0" y="36" width="10" height="10"/>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="530.0" y="45">Traffic (3)</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="530.0" y="45">Traffic (19)</text>
   <polyline fill="none" stroke="#f0883e" stroke-width="2" stroke-linejoin="round" points="667.9,294.7 685.9,259.9 703.9,240.2 721.9,292.5 740.0,293.6 758.0,292.5 776.0,298.0"/>
   <rect fill="#f0883e" x="55" y="52" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="69" y="61">Grafana-Dashboards (0)</text>

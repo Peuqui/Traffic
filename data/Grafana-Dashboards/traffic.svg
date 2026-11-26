@@ -25,12 +25,12 @@
   <rect fill="#8b949e" x="516.4" y="396.0" width="68.5" height="10.0"/>
   <rect fill="#d29922" x="516.4" y="393.5" width="68.5" height="2.5"/>
   <rect fill="#8b949e" x="606.6" y="401.0" width="68.5" height="5.0"/>
-  <rect fill="#8b949e" x="696.7" y="403.5" width="68.5" height="2.5"/>
+  <rect fill="#8b949e" x="696.7" y="378.5" width="68.5" height="27.5"/>
   <rect fill="#d29922" x="540" y="237" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="554" y="246">possibly people</text>
   <rect fill="#8b949e" x="650" y="237" width="10" height="10"/>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="664" y="246">automated, at least</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="100.1" y="424" text-anchor="middle">Oct 2026</text>
   <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="460.6" y="424" text-anchor="middle">Nov</text>
-  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="450">Peuqui/Grafana-Dashboards &#183; 11.10.2026 &#8211; 24.11.2026 &#183; weeks from Monday, collected daily from the GitHub API</text>
+  <text font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#6e7781" x="55" y="450">Peuqui/Grafana-Dashboards &#183; 11.10.2026 &#8211; 25.11.2026 &#183; weeks from Monday, collected daily from the GitHub API</text>
 </svg>

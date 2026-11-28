@@ -11,6 +11,7 @@
 Views from each referring site in the 14 days up to the date, newest first. Days without a snapshot
 leave a gap.
 
-| Site | 27.11.2026 | 13.11.2026 | 30.10.2026 |
+| Site | 28.11.2026 | 14.11.2026 | 31.10.2026 |
 |---|---:|---:|---:|
+| Bing |  | 1 |  |
 | Google |  |  | 1 |
